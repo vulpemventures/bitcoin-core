@@ -168,16 +168,16 @@ export default {
     category: 'network',
     version: '>=0.8.0'
   },
+  getAddressInfo: {
+    category: 'wallet',
+    version: '>=0.17.0'
+  },
   getAddressesByAccount: {
     category: 'wallet',
     features: {
       multiwallet: '>=0.15.0'
     },
     version: '>=0.1.0'
-  },
-  getAddressInfo: {
-    category: 'wallet',
-    version: '>=0.17.0'
   },
   getBalance: {
     category: 'wallet',

@@ -181,6 +181,10 @@ var _default = {
     },
     version: '>=0.1.0'
   },
+  getAddressInfo: {
+    category: 'wallet',
+    version: '>=0.17.0'
+  },
   getBalance: {
     category: 'wallet',
     features: {
